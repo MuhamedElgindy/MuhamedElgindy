@@ -12,10 +12,10 @@
 ### 🧑‍💻 About Me
 - 💼 Salesforce Developer with **3+ years of experience** across Telecom, Aviation, Real Estate & Medical industries
 - 🏢 Currently at **CloudzLab**, building Salesforce solutions in **Real Estate** & **Medical** markets
-- ✈️ Worked at **United Delta Systems** on **King Khaled International Airport** -
+- ✈️ Worked at **United Delta Systems** on **King Khaled International Airport**
 - 📡 Delivered Salesforce solutions for **Zain Kuwait (Telecom)**
-- 🚀 Skilled in **Apex, Flows, LWC, OmniStudio, CPQ, AI/ML frameworks**  
-- 🎯 Passionate about building scalable Salesforce Service Cloud, Sales Cloud & AI-powered solutions  
+- 🚀 Skilled in **Apex, Flows, LWC, OmniStudio, CPQ, AI/ML frameworks**
+- 🎯 Passionate about building scalable Salesforce Service Cloud, Sales Cloud & AI-powered solutions
 
 ---
 
@@ -23,8 +23,8 @@
 - **JavaScript Developer I**
 - **Salesforce CPQ Specialist**
 - **AI Associate**
-- **OmniStudio Developer**  
-- **OmniStudio Consultant**    
+- **OmniStudio Developer**
+- **OmniStudio Consultant**
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript" />
