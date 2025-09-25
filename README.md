@@ -3,12 +3,8 @@
 <p align="center"><b>Salesforce Developer | CloudzLab | 5x Certified </b></p>
 
 <p align="center">
-  <span style="color:#00ff7f;font-weight:bold">Follow to get New Updates</span>
-</p>
-
-<p align="center">
   <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GH_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=MuhamedElgindy&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
