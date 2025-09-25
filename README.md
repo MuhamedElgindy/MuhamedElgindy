@@ -10,26 +10,28 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Salesforce Developer with **3+ years of experience** across Telecom, Aviation, Real Estate & Medical industries  
-- 🤖 AI & Machine Learning Supervisor at **Information Technology Institute (ITI)** mentoring students & evaluating projects  
-- 🚀 Skilled in **Apex, LWC, OmniStudio, CPQ, AI/ML frameworks**  
-- 🎯 Passionate about building scalable Salesforce & AI-powered solutions  
+- 💼 Salesforce Developer with **3+ years of experience** across Telecom, Aviation, Real Estate & Medical industries
+- 🏢 Currently at **CloudzLab**, building Salesforce solutions in **Real Estate** & **Medical** markets
+- ✈️ Worked at **United Delta Systems** on **King Khaled International Airport** -
+- 📡 Delivered Salesforce solutions for **Zain Kuwait (Telecom)**
+- 🚀 Skilled in **Apex, Flows, LWC, OmniStudio, CPQ, AI/ML frameworks**  
+- 🎯 Passionate about building scalable Salesforce Service Cloud, Sales Cloud & AI-powered solutions  
 
 ---
 
 ### 🏆 Salesforce Certifications (5x)
+- **JavaScript Developer I**
+- **Salesforce CPQ Specialist**
+- **AI Associate**
 - **OmniStudio Developer**  
-- **OmniStudio Consultant**  
-- **Salesforce CPQ Specialist**  
-- **JavaScript Developer I**  
-- **AI Associate**  
+- **OmniStudio Consultant**    
 
 <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/CPQ-Specialist-orange?style=for-the-badge&logo=salesforce" />
+  <img src="https://img.shields.io/badge/AI-Associate-EA4335?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/OmniStudio-Developer-blue?style=for-the-badge&logo=salesforce" />
   <img src="https://img.shields.io/badge/OmniStudio-Consultant-purple?style=for-the-badge&logo=salesforce" />
-  <img src="https://img.shields.io/badge/CPQ-Specialist-orange?style=for-the-badge&logo=salesforce" />
-  <img src="https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/AI-Associate-EA4335?style=for-the-badge&logo=openai" />
 </p>
 
 ---
@@ -37,16 +39,13 @@
 ### 💼 Professional Experience  
 
 - **Salesforce Developer – CloudzLab (Oct 2024 – Present)**  
-  Real Estate & Medical markets | Apex, LWC, SOQL, Integrations  
-
-- **AI & ML Supervisor – ITI (Sep 2022 – Present, Part-time)**  
-  Mentoring AI/ML projects, curriculum design, capstone evaluation  
+  Real Estate & Medical markets | Apex, Flows, LWC, SOQL, Integrations  
 
 - **Salesforce Developer – United Delta Systems (Sep 2022 – Jan 2024)**  
   Zain Telecom | Flows, FlexCards, Process Automation, CPQ  
 
 - **Software Engineer – United Delta Systems (Apr 2022 – Jan 2024)**  
-  King Khaled International Airport | Java, SQL, Appian, ML Algorithms  
+  King Khaled International Airport | Java, SQL, Appian, CRM 
 
 ---
 
