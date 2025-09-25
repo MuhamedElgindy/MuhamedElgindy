@@ -1,6 +1,6 @@
 <!-- ===== Profile Header ===== -->
 <h1 align="center">👋 I'm Mohamed Elgindy</h1>
-<p align="center"><b>Salesforce Developer | CloudzLab | 5x Certified </b></p>
+<p align="center"><b>Salesforce Developer | AI & ML Supervisor | 5x Salesforce Certified </b></p>
 
 <p align="center">
   <!-- Profile views -->
@@ -10,11 +10,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 💼 Salesforce Developer with **3 years of experience** across multiple industries  
-- ✈️ Worked at **United Delta Systems** on **King Khaled International Airport**  
-- 📡 Delivered Salesforce solutions for **Zain Kuwait (Telecom)**  
-- 🏢 Currently at **CloudzLab**, building Salesforce solutions in **Real Estate** & **Medical** markets  
-- 🎓 Passionate about **Service Cloud, Sales Cloud**, and scalable cloud solutions  
+- 💼 Salesforce Developer with **3+ years of experience** across Telecom, Aviation, Real Estate & Medical industries  
+- 🤖 AI & Machine Learning Supervisor at **Information Technology Institute (ITI)** mentoring students & evaluating projects  
+- 🚀 Skilled in **Apex, LWC, OmniStudio, CPQ, AI/ML frameworks**  
+- 🎯 Passionate about building scalable Salesforce & AI-powered solutions  
 
 ---
 
@@ -30,19 +29,66 @@
   <img src="https://img.shields.io/badge/OmniStudio-Consultant-purple?style=for-the-badge&logo=salesforce" />
   <img src="https://img.shields.io/badge/CPQ-Specialist-orange?style=for-the-badge&logo=salesforce" />
   <img src="https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/AI-Associate-green?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/AI-Associate-EA4335?style=for-the-badge&logo=openai" />
 </p>
+
+---
+
+### 💼 Professional Experience  
+
+- **Salesforce Developer – CloudzLab (Oct 2024 – Present)**  
+  Real Estate & Medical markets | Apex, LWC, SOQL, Integrations  
+
+- **AI & ML Supervisor – ITI (Sep 2022 – Present, Part-time)**  
+  Mentoring AI/ML projects, curriculum design, capstone evaluation  
+
+- **Salesforce Developer – United Delta Systems (Sep 2022 – Jan 2024)**  
+  Zain Telecom | Flows, FlexCards, Process Automation, CPQ  
+
+- **Software Engineer – United Delta Systems (Apr 2022 – Jan 2024)**  
+  King Khaled International Airport | Java, SQL, Appian, ML Algorithms  
 
 ---
 
 ### 🧰 Tech Stack
 <p align="left">
+  <!-- Salesforce -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+  <!-- JavaScript -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <!-- Python -->
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <!-- Java -->
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <!-- TensorFlow -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tensorflow.svg"/>
+  <!-- PyTorch -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pytorch.svg"/>
+  <!-- Git -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <!-- SQL -->
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
+
+---
+
+### 🌟 Soft Skills
+- Strong communication & teamwork  
+- Critical problem solving  
+- Attention to detail & operational excellence  
+- Time management & working under pressure  
+
+---
+
+### 📜 Courses & Certificates
+- Salesforce AI Associate  
+- Salesforce JavaScript Developer I  
+- Salesforce Industries CPQ Developer  
+- Salesforce OmniStudio Consultant  
+- Salesforce OmniStudio Developer  
+- Data Scientist with Python Track – DataCamp  
+- Machine Learning with Python Track – DataCamp  
+- Linux Administration 1 – Red Hat  
 
 ---
 
@@ -54,16 +100,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhamedElgindy&theme=radical&margin-w=8&margin-h=8&no-frame=true" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:muhammadelgindy2010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohamedelgindy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tel:+201017188468"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://github.com/MuhamedElgindy"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
