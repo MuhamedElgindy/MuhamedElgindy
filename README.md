@@ -63,7 +63,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:muhammadelgindy2010@gmail.com"><img src="https://img.shields.io/badge/Email-3e65cf?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:muhammadelgindy2010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohamedelgindy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
