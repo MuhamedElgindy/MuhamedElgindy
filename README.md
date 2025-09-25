@@ -13,8 +13,8 @@
 - 💼 Salesforce Developer with **3 years of experience** across multiple industries  
 - ✈️ Worked at **United Delta Systems** on **King Khaled International Airport**  
 - 📡 Delivered Salesforce solutions for **Zain Kuwait (Telecom)**  
-- 🏢 Currently at **CloudzLab**, building Salesforce solutions in **Real Estate** & **Healthcare** markets  
-- 🎓 Passionate about **CRM, CPQ, OmniStudio**, and scalable cloud solutions  
+- 🏢 Currently at **CloudzLab**, building Salesforce solutions in **Real Estate** & **Medical** markets  
+- 🎓 Passionate about **Service Cloud, Sales Cloud**, and scalable cloud solutions  
 
 ---
 
@@ -39,8 +39,8 @@
 <p align="left">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/ai-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/machinelearning-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
@@ -48,15 +48,15 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GH_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_GH_USERNAME&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhamedElgindy&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=MuhamedElgindy&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GH_USERNAME&theme=radical&margin-w=8&margin-h=8&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhamedElgindy&theme=radical&margin-w=8&margin-h=8&no-frame=true" />
 </p>
 
 ---
