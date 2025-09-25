@@ -1,5 +1,5 @@
 <!-- ===== Profile Header ===== -->
-<h1 align="center">👋 I'm [Mohamed Elgindy]</h1>
+<h1 align="center">👋 I'm Mohamed Elgindy</h1>
 <p align="center"><b>Salesforce Developer | CloudzLab | 5x Certified </b></p>
 
 <p align="center">
