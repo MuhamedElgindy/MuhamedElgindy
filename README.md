@@ -1,6 +1,6 @@
 <!-- ===== Profile Header ===== -->
 <h1 align="center">👋 I'm Mohamed Elgindy</h1>
-<p align="center"><b>Salesforce Developer | AI & ML Supervisor | 5x Salesforce Certified </b></p>
+<p align="center"><b>Salesforce Developer | CloudzLab | 5x Salesforce Certified </b></p>
 
 <p align="center">
   <!-- Profile views -->
