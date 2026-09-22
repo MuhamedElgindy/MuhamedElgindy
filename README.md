@@ -5,7 +5,6 @@
 I build Salesforce applications that turn complex business processes into reliable, usable workflows. My work spans Apex and Lightning Web Components, automation, integrations, reporting, and Agentforce solutions across real estate, healthcare, aviation, and telecom.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedelgindy/)
-![Profile views](https://komarev.com/ghpvc/?username=MuhamedElgindy&label=Profile%20views&color=0A66C2)
 
 ## What I work with
 
@@ -29,6 +28,3 @@ I have built payment and installment workflows, reusable LWCs, reports and dashb
 
 Salesforce AI Associate · Salesforce JavaScript Developer I · Salesforce Industries CPQ Developer · Salesforce OmniStudio Consultant · Salesforce OmniStudio Developer
 
----
-
-**Repository traffic:** To see views, unique visitors, clones, and referring sites for an individual repository, open its **Insights → Traffic** tab. The profile views badge above is an approximate counter and does not identify visitors.
