@@ -24,18 +24,6 @@ I build Salesforce applications that turn complex business processes into reliab
 
 I have built payment and installment workflows, reusable LWCs, reports and dashboards, and Salesforce solutions for King Khalid International Airport and Zain. My CV highlights 90%+ coverage across critical Apex classes, a 25% improvement in trigger and batch performance, and a 30% reduction in payment processing errors.
 
-## Featured project
-
-### [CV Review Agent](https://github.com/MuhamedElgindy/CV-Review-Agent)
-
-A Salesforce Agentforce prototype for recruiters to upload CVs, extract candidate information, search candidate records, and compare applicants against role profiles. It brings together Agentforce, Prompt Builder, Apex, LWCs, Salesforce Files, and custom objects. See the [project README](https://github.com/MuhamedElgindy/CV-Review-Agent#readme) for the architecture and scope.
-
-## More from my GitHub
-
-- [Data Science Roadmap](https://github.com/MuhamedElgindy/Data-Science-Roadmap)
-- [Wuzzuf Project](https://github.com/MuhamedElgindy/Wuzzuf_Project)
-- [SMS Spam Classifier](https://github.com/MuhamedElgindy/SMS-Spam-Classifier)
-- [Leetcode Solutions](https://github.com/MuhamedElgindy/Leetcode-Solutions)
 
 ## Certifications
 
