@@ -17,11 +17,9 @@ I build Salesforce applications that turn complex business processes into reliab
 
 | Role | Organization | Period |
 | --- | --- | --- |
-| Senior Salesforce Developer | Dar Al-Handasah (Sidara) | Feb 2026 – Present |
+| Senior Salesforce Developer | Dar Al-Handasah (Sidara) | Feb 2026 – Nov 2026 |
 | Salesforce Developer | Cloudzlab | Oct 2024 – Feb 2026 |
 | Salesforce Developer | United Delta Systems | Apr 2022 – Mar 2024 |
-
-I have built payment and installment workflows, reusable LWCs, reports and dashboards, and Salesforce solutions for King Khalid International Airport and Zain. My CV highlights 90%+ coverage across critical Apex classes, a 25% improvement in trigger and batch performance, and a 30% reduction in payment processing errors.
 
 
 ## Certifications
